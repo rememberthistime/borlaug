@@ -1,0 +1,52 @@
+.container {
+  background-color: #EEEEEE;
+  width: auto;
+  border-radius: 1%;
+  margin: 80px 200px 50px 200px;
+  padding-top: 40px;
+}
+
+.jumbotron {
+  background-color: white;
+  padding: 4px;
+  margin: 60px;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 63px;
+}
+
+h2 {
+  font-style: italic;
+}
+.subhead {
+  padding-top: 50px;
+  padding-left: 150px;
+}
+
+.dates {
+  display: inline-block;
+  font-size: 14px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.quote {
+  padding: 30px 200px 30px 200px;
+  font-size: 20px;
+}
+
+.attribution {
+  padding-left: 200px;
+  paddding-right: 200px;
+  font-style: italic;
+  color: grey;
+}
+
+.link {
+  padding-left: 190px;
+  padding-right: 200px;
+  padding-bottom: 40px;
+  font-size: 22px;
+}
